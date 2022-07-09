@@ -10,6 +10,8 @@
 - 动态路由
 - 分组控制
 - 中间件
+- HTML 模板
+- 错误恢复
 
 ## 参考资料
 [七天用 Go 从零实现系列](https://geektutu.com/post/gee.html)
